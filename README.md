@@ -91,6 +91,5 @@ Este proyecto funciona como una interfaz RAG para usuarios finales que desean re
   pip install graphrag future
   ```
 
-- **Setting Up API KEY**: To use the GraphRAG retriever feature, ensure you set the `GRAPHRAG_API_KEY` environment variable. You can do this directly in your environment or by adding it to a `.env` file.
-- **Using Local Models and Custom Settings**: If you want to use GraphRAG with local models (like `Ollama`) or customize the default LLM and other configurations, set the `USE_CUSTOMIZED_GRAPHRAG_SETTING` environment variable to true. Then, adjust your settings in the `settings.yaml.example` file.
-
+- **Configuración de la CLAVE API**: Para utilizar la función de recuperación de GraphRAG, asegúrese de configurar la variable de entorno `GRAPHRAG_API_KEY`. Puede hacerlo directamente en su entorno o agregándola a un archivo `.env`.
+- **Uso de modelos locales y configuraciones personalizadas**: Si desea utilizar GraphRAG con modelos locales (como `Ollama`) o personalizar el LLM predeterminado y otras configuraciones, configure la variable de entorno `USE_CUSTOMIZED_GRAPHRAG_SETTING` en verdadero. Luego, ajuste su configuración en el archivo `settings.yaml.example`.
