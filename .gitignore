@@ -475,5 +475,6 @@ storage/*
 doc_env/
 
 # application data
-DocProcessing_app_data/
+DocProcessin_app_data/
+rag_app_data
 gradio_tmp/
