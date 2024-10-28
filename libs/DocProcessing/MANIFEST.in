@@ -1,0 +1,4 @@
+include DocProcessing/assets/css/*.css
+include DocProcessing/assets/img/*.svg
+include DocProcessing/assets/js/*.js
+include DocProcessing/assets/md/*.md
